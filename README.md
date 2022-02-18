@@ -1,2 +1,2 @@
 # hello-world
-lesson for CMPINF
+lesson for CMPINF 0010
